@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Robotics and Automation, Nanjing University</a>. 1520, Taihu Avenue, Suchow. yingjie.ma@nju.edu.cn. 
+subtitle: <a href='#'>Assistant Professor at Nanjing University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Suzhou, Jiangsu Province, P.R. China</p>
+    <p>yingjie.ma@nju.edu.cn. </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +28,7 @@ latest_posts:
 
 I am an Assistant Professor in the School of Robotics & Automation at Nanjing University. From 2022 to 2025, I was a Postdoctoral Associate at the Massachusetts Institute of Technology, where I worked with Prof. Richard Braatz. Prior to that, I earned my PhD in 2022 from The University of Manchester under the supervision of Dr. Jie Li.
 
-My research lies at the intersection of learning, optimization, and control, with applications in chemical and biological processes as well as robotics. Specifically, my interests include:
+My research interest lies at the intersection of learning, optimization, and control, with applications in chemical and biological processes as well as robotics. Specifically, my interests include:
 - Nonlinear and nonconvex optimization, including nonlinear programming, dynamic optimization, and mixed-integer nonlinear programming
 - Model predictive control, particularly nonlinear model predictive control (NMPC)
 - Optimization and control under uncertainty
