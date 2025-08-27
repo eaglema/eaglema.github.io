@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>School of Robotics and Automation, Nanjing University</a>. 1520, Taihu Avenue, Suchow. yingjie.ma@nju.edu.cn. 
 
 profile:
   align: right
