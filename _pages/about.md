@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Suzhou, Jiangsu Province, P.R. China</p>
+    <p>Suzhou, Jiangsu Province, China</p>
     <p>yingjie.ma@nju.edu.cn. </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,5 +31,6 @@ I am an Assistant Professor in the School of Robotics & Automation at Nanjing Un
 My research interest lies at the intersection of learning, optimization, and control, with applications in chemical and biological processes as well as robotics. Specifically, my interests include:
 - Nonlinear and nonconvex optimization, including nonlinear programming, dynamic optimization, and mixed-integer nonlinear programming
 - Model predictive control, particularly nonlinear model predictive control (NMPC)
+- Machine learning (AI for science)
 - Optimization and control under uncertainty
 - Applying advanced algorithms and theory to real-world problems in chemical/biological systems and robotics
