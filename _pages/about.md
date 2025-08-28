@@ -26,11 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the School of Robotics & Automation at Nanjing University. From 2022 to 2025, I was a Postdoctoral Associate at the Massachusetts Institute of Technology, where I worked with Prof. Richard Braatz. Prior to that, I earned my PhD in 2022 from The University of Manchester under the supervision of Dr. Jie Li.
+I am an Assistant Professor in the School of Robotics & Automation at Nanjing University. From 2022 to 2025, I was a Postdoctoral Associate at Massachusetts Institute of Technology, where I worked with Prof. Richard Braatz. Prior to that, I earned my PhD in 2022 from The University of Manchester under the supervision of Dr. Jie Li.
 
-My research interest lies at the intersection of learning, optimization, and control, with applications in chemical and biological processes as well as robotics. Specifically, my interests include:
+My research interest lies at the intersection of learning, optimization, and control, with applications in chemical and biological processes. Specifically, my interests include:
 - Nonlinear and nonconvex optimization, including nonlinear programming, dynamic optimization, and mixed-integer nonlinear programming
 - Model predictive control, particularly nonlinear model predictive control (NMPC)
 - Machine learning (AI for science)
 - Optimization and control under uncertainty
-- Applying advanced algorithms and theory to real-world problems in chemical/biological systems and robotics
+- Applying advanced algorithms and theory to real-world problems in chemical/biological processes
