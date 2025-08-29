@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to announce that I've started as an assistant professor at Nanjing University!
+Excited to share that I've joined Nanjing University as an Assistant Professor!
