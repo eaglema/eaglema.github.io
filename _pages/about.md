@@ -33,4 +33,4 @@ My research interest lies at the intersection of learning, optimization, and con
 - Model predictive control, particularly nonlinear model predictive control (NMPC)
 - Machine learning (AI for science)
 - Optimization and control under uncertainty
-- Applying advanced algorithms and theory to real-world problems in chemical/biological processes
+- The engineering applications of above theory and algorithms. Currently, we focus on chemical/biological manufacturing, but we are open to any critical engineering problems depending on the funders and collaborators.
