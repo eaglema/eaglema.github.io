@@ -31,7 +31,7 @@ I am an Assistant Professor in the School of Robotics & Automation at Nanjing Un
 My research interest lies at the intersection of learning, optimization, and control, with applications in engineering systems, which, more specifically, include:
 - Nonlinear and nonconvex optimization, e.g., nonlinear programming, dynamic optimization, and mixed-integer nonlinear programming
 - Model predictive control, particularly nonlinear model predictive control (NMPC)
-- Machine learning (AI for science)
+- System identification and machine learning (AI for science)
 - Optimization and control under uncertainty
 - The engineering applications of above theory and algorithms. 
 
