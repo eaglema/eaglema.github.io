@@ -36,3 +36,5 @@ My research interest lies at the intersection of learning, optimization, and con
 - The engineering applications of above theory and algorithms. 
 
 Currently, we focus on chemical/biological manufacturing, but most of our algorithms are general, and we are also interested in other engineering systems involving intractable optimization problems.
+
+I'm actively recruiting PhD students. If you already hold—or will soon hold—a master’s degree and have a background in process systems engineering, applied mathematics, optimization, control or machine learning, feel free to contact me.
