@@ -384,7 +384,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-excited-to-share-that-i-ve-joined-nanjing-university-as-an-assistant-professor",
+          title: 'Excited to share that I’ve joined Nanjing University as an Assistant Professor!',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
