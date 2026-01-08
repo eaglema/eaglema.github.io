@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: <sup>#</sup>Contribute equally.
 nav: true
 nav_order: 2
 ---
