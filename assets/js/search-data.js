@@ -384,10 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-first-paper-on-open-source-software-for-modeling-optimization-and-control-is-on-arxiv-now-https-arxiv-org-abs-2601-01413-our-first-paper-control-paper-in-published-on-control-engineering-practice-https-www-sciencedirect-com-libproxy-mit-edu-science-article-abs-pii-s0967066125004927-via-3dihub-excited-to-share-that-i-ve-joined-nanjing-university-as-an-assistant-professor",
-          title: '[Our first paper on open-source software for modeling, optimization and control is on...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
