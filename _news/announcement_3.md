@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0967066125004927">My first NMPC paper is published on Control Engineering Practice!</a>
+Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0967066125004927"> Adaptive nonlinear model predictive control of monoclonal antibody glycosylation in CHO cell culture</a> is published on Control Engineering Practice!
