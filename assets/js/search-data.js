@@ -388,7 +388,7 @@ ninja.data = [{
           title: 'Excited to share that I’ve joined Nanjing University as an Assistant Professor!',
           description: "",
           section: "News",},{id: "news-our-paper-glycopy-an-equation-oriented-and-object-oriented-software-for-hierarchical-modeling-optimization-and-control-in-python-is-on-arxiv-now",
-          title: 'Our paper “GlycoPy: An equation-oriented and object-oriented software for hierarchical modeling, optimization, and...',
+          title: 'Our paper GlycoPy: An equation-oriented and object-oriented software for hierarchical modeling, optimization, and...',
           description: "",
           section: "News",},{id: "news-our-paper-adaptive-nonlinear-model-predictive-control-of-monoclonal-antibody-glycosylation-in-cho-cell-culture-is-published-on-control-engineering-practice",
           title: 'Our paper Adaptive nonlinear model predictive control of monoclonal antibody glycosylation in CHO...',
