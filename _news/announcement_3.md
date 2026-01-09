@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="sciencedirect.com/science/article/pii/S0967066125004927">Our first control paper in published on Control Engineering Practice!</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0967066125004927">My first NMPC paper is published on Control Engineering Practice!</a>
