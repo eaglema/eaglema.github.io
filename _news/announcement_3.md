@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our first control paper in published on Control Engineering Practice!
+<a href="sciencedirect.com/science/article/pii/S0967066125004927">Our first control paper in published on Control Engineering Practice!</a>
